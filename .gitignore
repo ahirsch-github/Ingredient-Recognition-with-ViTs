@@ -1,2 +1,4 @@
 data
 .venv
+fastai-env
+src/runs
