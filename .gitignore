@@ -6,3 +6,4 @@ data/Recipes5k
 fastai-env
 src/runs
 wandb
+models
