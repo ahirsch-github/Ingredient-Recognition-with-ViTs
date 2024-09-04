@@ -2,6 +2,7 @@ data/food-101
 data/food-ingredients-101
 data/ingredients-101
 data/Recipes5k
+data/chefkoch22k
 .venv
 fastai-env
 src/runs
