@@ -1,4 +1,4 @@
-# Ingredient Recognition with Vision Transformern
+# Ingredient Recognition with Vision Transformers
 
 This repository contains the code for the master thesis "Identifikation von Lebensmitteln in Fotos von Mahlzeiten mit Transformern" (engl. "Identification of Ingredients in Pictures of Food with Transformers") by Anja Hirsch at HTW Berlin.
 
